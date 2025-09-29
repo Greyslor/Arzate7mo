@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Characters/Blueprints/IMC_Gameplay.uasset",
+				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Characters/Blueprints/GM_Gameplay.uasset",
+				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Characters/Blueprints/BPC_Gameplay_Controller.uasset",
+				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Characters/Blueprints/IA_Movement.uasset",
+				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Characters/Blueprints/IA_Mouse.uasset",
+				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Characters/Blueprints/BP_MainPlayer.uasset",
+				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Pawns/BP_MainPlayer.uasset",
+				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Characters/Blueprints/IA_Salto.uasset"
+			]
+		}
+	]
+}
