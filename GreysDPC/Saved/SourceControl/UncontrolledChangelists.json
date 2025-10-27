@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Lab107-10/Desktop/Greyslor/Arzate7mo/GreysDPC/Content/Pawns/Object.uasset",
+				"C:/Users/Lab107-10/Desktop/Greyslor/Arzate7mo/GreysDPC/Content/Pawns/BP_MainPlayer.uasset",
+				"C:/Users/Lab107-10/Desktop/Greyslor/Arzate7mo/GreysDPC/Content/Pawns/AnimationBlueprint.uasset",
+				"C:/Users/Lab107-10/Desktop/Greyslor/Arzate7mo/GreysDPC/Content/Pawns/CR_Aim.uasset",
 				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Characters/Blueprints/IMC_Gameplay.uasset",
 				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Characters/Blueprints/GM_Gameplay.uasset",
 				"C:/Users/Morado19/Desktop/Greys/GreysDPC/Content/Characters/Blueprints/BPC_Gameplay_Controller.uasset",
